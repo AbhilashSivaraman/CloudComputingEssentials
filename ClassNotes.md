@@ -12,3 +12,7 @@
 - Operating System
 - Kernel
 - Hardware
+
+## Day 2
+
+- pwd - to print the current working directory
